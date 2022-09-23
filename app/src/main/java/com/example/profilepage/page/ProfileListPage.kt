@@ -106,7 +106,7 @@ fun GetCard(navController: NavController, user: User, index: Int) {
                     width = Dimension.wrapContent
                 }
             ) {
-                Text(text = "Follow")
+                Text(text = "Details")
             }
 
             Button(onClick = { /*TODO*/ },

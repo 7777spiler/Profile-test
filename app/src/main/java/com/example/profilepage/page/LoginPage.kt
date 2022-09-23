@@ -21,7 +21,7 @@ fun LoginPage(
         Button(onClick = {
             navController.navigate("profileList")
         }) {
-            Text("Go to Profile List")
+            Text("Login")
         }
     }
 }
